@@ -1,7 +1,7 @@
 # Exercise - Spring Boot - Hibernate
+ Set of exercises completed with Spring in developer school
 
 * write a Spring Boot application that uses the following dependencies:
-    * `Lombok`
     * `Spring Boot DevTools`
     * `Spring Web`
     * `Spring Data JPA`
